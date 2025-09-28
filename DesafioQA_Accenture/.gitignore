@@ -1,0 +1,25 @@
+
+!.angular-cli.json
+!.gitattributes
+!.gitignore
+!.gitkeep
+!.editorconfig
+*.log
+target/
+node_modules/
+target/
+.idea/
+extent-reports
+log4j2
+screenshots
+src/main/resources/secrets.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+.classpath
+.project
+.idea
+*.iml
+*.ipr
+out/
